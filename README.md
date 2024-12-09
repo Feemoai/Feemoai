@@ -15,10 +15,11 @@ Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I
 - 🌱 **Currently Learning**:  
   - Microcontroller Projects (Arduino, IoT)  
   - Frontend Frameworks (ReactJS, Next.js)  
-  - Web Development with Tailwind and Bootstrap  
+  - Fullstack Website Development 
 
 - 💬 **Ask me about**:  
-  - Building interactive frontends  
+  - Building interactive frontends
+  - Building strong backend 
   - Basic Python projects  
   - Fun Arduino experiments  
 
@@ -66,9 +67,9 @@ Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I
 
 ## 📫 **Connect With Me**  
 
-- 💼 **LinkedIn**: [Ahmad Fajril Falah](#)  
-- 📧 **Email**: feemoai@gmail.com  
-- 📷 **Instagram**: [@Feemoai](#)  
+- 💼 **LinkedIn**: [Ahmad Fajril Falah](https://www.linkedin.com/in/ahmad-fajril-falah-a85850299/)  
+- 📧 **Email**: feryahmad2006@gmail.com  
+- 📷 **Instagram**: [@Feemoai](www.instagram.com/feemoai)  
 
 ---
 
