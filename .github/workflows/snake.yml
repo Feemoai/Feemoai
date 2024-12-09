@@ -2,19 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Jalankan setiap tengah malam
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04 
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Feemoai 
-      - uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
+    - uses: actions/checkout@v2 
+    - uses: Platane/snk@v2
+      with:
+        github_user_name: Feemoai
+    - uses: crazy-max/ghaction-github-pages@v2
+      with:
+        target_branch: output
+        build_dir: dist
