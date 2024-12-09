@@ -6,6 +6,9 @@
 Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I enjoy exploring the latest technologies, crafting innovative solutions, and building projects that make an impact! 🚀  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Feemoai&color=brightgreen&style=flat-square)  
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Feemoai&theme=tokyonight)
+
 
 ---
 
