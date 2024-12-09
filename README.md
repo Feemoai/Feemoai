@@ -4,12 +4,10 @@
 # 👋 Welcome to My GitHub!  
 
 Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I enjoy exploring the latest technologies, crafting innovative solutions, and building projects that make an impact! 🚀  
-
-### 🌟 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Feemoai&style=flat-square&color=blue)
+
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Feemoai&theme=tokyonight)
-
 
 ---
 
@@ -66,6 +64,9 @@ Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I
 
 ![Feemoai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feemoai&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight)  
+
+### 🐍 Commit Snake
+![GitHub Snake Animation](https://github.com/Feemoai/Feemoai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
