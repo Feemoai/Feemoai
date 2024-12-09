@@ -69,7 +69,7 @@ Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I
 
 - 💼 **LinkedIn**: [Ahmad Fajril Falah](https://www.linkedin.com/in/ahmad-fajril-falah-a85850299/)  
 - 📧 **Email**: feryahmad2006@gmail.com  
-- 📷 **Instagram**: [@Feemoai](www.instagram.com/feemoai)  
+- 📷 **Instagram**: [@Feemoai](https://www.instagram.com/feemoai/)  
 
 ---
 
