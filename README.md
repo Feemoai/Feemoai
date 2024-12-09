@@ -66,7 +66,7 @@ Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight)  
 
 ### 🐍 Commit Snake
-![Snake Graph](https://github.com/Feemoai/Feemoai/blob/output/snake.svg)
+![GitHub Snake](https://github.com/Feemoai/Feemoai/blob/main/.github/workflows/snake.svg)
 
 ---
 
