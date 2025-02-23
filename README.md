@@ -1,84 +1,66 @@
+<h1 align="center">🚀 Welcome to My GitHub! 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Feemoai&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 ---
 
-# 👋 Welcome to My GitHub!  
+## 🌟 About Me  
 
-Hi, I'm **Ahmad Fajril Falah** – a passionate developer and tech enthusiast. I enjoy exploring the latest technologies, crafting innovative solutions, and building projects that make an impact! 🚀  
-![Profile Views](https://komarev.com/ghpvc/?username=Feemoai&style=flat-square&color=blue)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Feemoai&theme=tokyonight)
-
----
-
-## 🌟 **About Me**  
-
-- 🎓 **Student at**: **SMA Negeri 1 Pati**  
-- 🌱 **Currently Learning**:  
-  - Microcontroller Projects (Arduino, IoT)  
-  - Frontend Frameworks (ReactJS, Next.js)  
-  - Fullstack Website Development 
-
-- 💬 **Ask me about**:  
-  - Building interactive frontends
-  - Building strong backend 
-  - Basic Python projects  
-  - Fun Arduino experiments  
+🎓 **Student at:** SMA Negeri 1 Pati  
+🌱 **Currently Learning:** Microcontroller (Arduino, IoT), Frontend (ReactJS, Next.js), Fullstack Development  
+💡 **Interests:** UI/UX, Web Development, Embedded Systems  
+📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/ahmad-fajril-falah-a85850299/) | [Email](mailto:feryahmad2006@gmail.com) | [Instagram](https://www.instagram.com/feemoai/)
 
 ---
 
-## 🛠 **Tech Stack & Libraries**  
+## 🚀 Tech Stack & Tools  
 
-### **Languages**  
-![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge)  
+### 🌐 Languages & Frameworks  
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+</p>
 
-### **Frontend Frameworks & Libraries**  
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white&style=for-the-badge)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)  
-
-### **Tools & Platforms**  
-![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?logo=arduino&logoColor=white&style=for-the-badge)  
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
-![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white&style=for-the-badge)  
-
----
-
-## 🚀 **My Featured Projects**  
-
-- 🎹 **[Mini Piano with OLED](https://github.com/Feemoai/Mini-Piano)**  
-  Play music with this Arduino-based project featuring a buzzer and OLED display!  
-
-- 🎮 **[Tic Tac Toe](https://github.com/Feemoai/TUGAS-CODING-TIK)**  
-  A simple C-based Tic Tac Toe project built for an Informatics assignment.  
-
-- 🌱 **[Feemoai](https://feemoai.github.io/Feemoai/)**  
-  A webpage build with HTML, CSS and JS 
+### 🔧 Tools & Platforms  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Arduino-%2300979D?logo=arduino&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 **GitHub Stats**  
-
-![Feemoai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feemoai&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight)  
-
-### 🐍 Commit Snake
-![GitHub Snake](https://github.com/Feemoai/Feemoai/blob/main/dist/snake.svg)
-
+## 🎖️ GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Feemoai&theme=tokyonight&margin-w=5&no-frame=true" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 📫 **Connect With Me**  
+## 💡 Featured Projects  
 
-- 💼 **LinkedIn**: [Ahmad Fajril Falah](https://www.linkedin.com/in/ahmad-fajril-falah-a85850299/)  
-- 📧 **Email**: feryahmad2006@gmail.com  
-- 📷 **Instagram**: [@Feemoai](https://www.instagram.com/feemoai/)  
+🔹 **[Mini Piano with OLED](https://github.com/Feemoai/Mini-Piano)** - Arduino project with buzzer & OLED  
+🔹 **[Tic Tac Toe](https://github.com/Feemoai/TUGAS-CODING-TIK)** - Simple C-based Tic Tac Toe  
+🔹 **[Feemoai](https://feemoai.github.io/Feemoai/)** - Webpage built with HTML, CSS, JS  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Feemoai&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+### 🐍 Commit Snake  
+<p align="center">
+  <img src="https://github.com/Feemoai/Feemoai/blob/main/dist/snake.svg" alt="GitHub Snake"/>
+</p>
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or share ideas! 😊  
-
----
+✨ Thanks for visiting! Feel free to connect or collaborate! 😊
