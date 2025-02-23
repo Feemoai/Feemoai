@@ -41,10 +41,6 @@
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="600" />
-</p>
-
 ---
 
 ## 🎖️ GitHub Trophies  
@@ -56,7 +52,7 @@
 
 ## 💡 Featured Projects  
 
-🔹 **[Mini Piano with OLED](https://github.com/Feemoai/Mini-Piano)** - Arduino project with buzzer & OLED  
+🔹 **[Mini Piano with OLED](https://github.com/Feemoai/Arduino-Piano-With-OLED-indicator)** - Arduino project with buzzer & OLED  
 🔹 **[Tic Tac Toe](https://github.com/Feemoai/TUGAS-CODING-TIK)** - Simple C-based Tic Tac Toe  
 🔹 **[Feemoai](https://feemoai.github.io/Feemoai/)** - Webpage built with HTML, CSS, JS  
 
