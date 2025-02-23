@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzMWE3dGZ6dWd6dGF0eXVmZXN3amE1bG8wMXF0eHZoZWpiaTFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="auto" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="600" />
 </p>
 
 ---
@@ -65,10 +65,7 @@
 </p>
 
 ### 🐍 Commit Snake  
-<p align="center">
-  <img src="https://github.com/Feemoai/Feemoai/blob/main/dist/snake.svg" alt="GitHub Snake"/>
-</p>
-
+![snake gif](https://github.com/Feemoai/Feemoai/blob/output/github-snake-dark.svg)
 ---
 
 ✨ Thanks for visiting! Feel free to connect or collaborate! 😊
