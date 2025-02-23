@@ -3,6 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=Feemoai&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100" />
+</p>
+
 ---
 
 ## 🌟 About Me  
@@ -31,6 +35,10 @@
   <img src="https://img.shields.io/badge/-Arduino-%2300979D?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" />
 </p>
 
 ---
