@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=auto&center=true&width=600&lines=Hi%2C+I'm+Ahmad+Fajril+Falah" />
+</p>
+
+<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzMWE3dGZ6dWd6dGF0eXVmZXN3amE1bG8wMXF0eHZoZWpiaTFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="auto" />
 </p>
 
