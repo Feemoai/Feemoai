@@ -16,7 +16,7 @@
 ## 🌟 About Me  
 
 🎓 **Student at:** SMA Negeri 1 Pati  
-🌱 **Currently Learning:** Microcontroller (Arduino, IoT), Frontend (ReactJS, Next.js), Fullstack Development  
+🌱 **Currently Learning:** Figma, Fullstack Development (ReactJS...)
 💡 **Interests:** UI/UX, Web Development, Embedded Systems  
 📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/ahmad-fajril-falah-a85850299/) | [Email](mailto:feryahmad2006@gmail.com) | [Instagram](https://www.instagram.com/feemoai/)
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white&style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/-TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 </p>
 
