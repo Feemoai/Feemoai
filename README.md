@@ -15,7 +15,7 @@
 
 ## 🌟 About Me  
 
-🎓 **Student at:** Semarang State Polytechnic (POLINES)
+🎓 **Student at:** Semarang State Polytechnic (POLINES)    
 🌱 **Currently Learning:** Figma, Fullstack Development (ReactJS...)       
 💡 **Interests:** UI/UX, Web Development, Embedded Systems  
 📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/ahmad-fajril-falah-a85850299/) | [Email](mailto:feryahmad2006@gmail.com) | [Instagram](https://www.instagram.com/feemoai/)
