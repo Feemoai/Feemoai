@@ -26,7 +26,7 @@
 
 ### 🌐 Languages & Frameworks  
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white&style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=for-the-badge" />
