@@ -37,7 +37,7 @@
 ### 🔧 Tools & Platforms  
 <p align="center">
   <img src="https://img.shields.io/badge/-Arduino-%2300979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Figma-%00000?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
