@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Feemoai&theme=travelers-theme&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats-gold-five-60.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ### 🐍 Commit Snake  
