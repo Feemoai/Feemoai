@@ -62,6 +62,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Feemoai&theme=travelers-theme&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Feemoai)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feemoai&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
